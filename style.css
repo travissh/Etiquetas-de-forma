@@ -17,3 +17,18 @@ body {
     padding: 5px;
     border: solid 5px rgb(56, 124, 124);
 }
+.enlace {
+    margin-left: 310px;
+    display: inline-block;
+    background-color: #008CBA;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
